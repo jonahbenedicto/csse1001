@@ -1,4 +1,5 @@
 
-# CSSE1001
+# csse1001
 
-Welcome
+This repository contains my notes for CSSE1001 Introduction to Software Engineering.
+
